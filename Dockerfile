@@ -1,4 +1,4 @@
-from jenkinsci/jenkins:latest
+from jenkins/jenkins:lts
 
 # install docker
 USER root
